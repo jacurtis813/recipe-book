@@ -1,0 +1,10 @@
+/*Our style sheet for the recipe-book project challenge*/
+body {
+    background-color: tan;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
