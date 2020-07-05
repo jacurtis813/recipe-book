@@ -25,3 +25,5 @@ Cheers and Happy Coding!!!
 6. Assign the time amount and the serving size for the dish
 7. Set up the entire table for the ingredients annd qauntity list
 8. Apply comments to the sections of start. Keep the file clean and concise
+9. Begin the steps process for the first resipe. Apply the steps needed to make the recipe
+10.  
