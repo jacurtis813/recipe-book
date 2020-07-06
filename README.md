@@ -49,4 +49,6 @@ Cheers and Happy Coding!!!
 30. Use that class to apply the color to the text assigned according
 31. Use the inherit selector by calling to the strong tag within a p tag only to add text decoration
 32. Create a div container for the table of contents section to assign the main-container class
-33. 
+33. Make sure that the entire section for recipe 2 will match with recipe 1
+34. Begin creating the third section showcasing our dessert recipe
+35. 
