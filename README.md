@@ -26,4 +26,7 @@ Cheers and Happy Coding!!!
 7. Set up the entire table for the ingredients annd qauntity list
 8. Apply comments to the sections of start. Keep the file clean and concise
 9. Begin the steps process for the first resipe. Apply the steps needed to make the recipe
-10.  
+10. Apply hr tag to divide the table of contents from the actual content in the page
+11. Apply the remaining steps for recipe 1 on how to make the recipe from start to serve
+12. Apply an achor tag to the recipe name to link to the source of documentation from taste of home web page
+13. Update the README file to reflect all changes within these files
