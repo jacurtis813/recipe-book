@@ -30,3 +30,8 @@ Cheers and Happy Coding!!!
 11. Apply the remaining steps for recipe 1 on how to make the recipe from start to serve
 12. Apply an achor tag to the recipe name to link to the source of documentation from taste of home web page
 13. Update the README file to reflect all changes within these files
+14. Apply the image for recipe one and resize the image to fit the area properly
+15. Make all comments to the html file and the css file, update the README file
+16. Apply the image for recipe 2 and resize the image to fit the area properly
+17. Apply alt attributes to both images that are now on the web page
+
