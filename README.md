@@ -62,3 +62,8 @@ Cheers and Happy Coding!!!
 43. Update the README file to reflect all changes
 44. Make sure that everything on the page is working as it should
 45. Save all progress and commit final step
+46. Clear the breaks in the last paragraph line make it look a little cleaner
+47. Correct a closed bracket that was missing for the link tag. Format the page once more
+48. Create the alt attribute for the recipe one photo all others will show up fine
+49. Make sure that the site is working as it should once again
+50. Update the README file and commit all changes once more
