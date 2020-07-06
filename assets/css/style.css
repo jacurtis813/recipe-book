@@ -1,6 +1,7 @@
 /*Our style sheet for the recipe-book project challenge*/
 body {
-    background-color: tan;
+    background-color: rgba(48, 150, 62, 0.712);
+    border: 2px solid #fff;
 }
 
 h1 {
