@@ -52,3 +52,9 @@ Cheers and Happy Coding!!!
 33. Make sure that the entire section for recipe 2 will match with recipe 1
 34. Begin creating the third section showcasing our dessert recipe
 35. Make all comments to the existing file. Format the html and commit/ save
+36. Completet the third recipe section
+37. Apply set up for the steps process for the recipe and the ingredients
+38. Set the link for the top id selector to drop down in the page
+39. Set the anchor tag to connect the food name with the site from which the recipe derived
+40. Place in a special thank you paragraph for the accessibility of content
+

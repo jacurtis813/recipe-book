@@ -37,3 +37,7 @@ p strong {
 .span-white {
     color: #fff;
 }
+
+#last-paragraph {
+    text-align: center;
+}
