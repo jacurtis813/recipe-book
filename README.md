@@ -51,4 +51,4 @@ Cheers and Happy Coding!!!
 32. Create a div container for the table of contents section to assign the main-container class
 33. Make sure that the entire section for recipe 2 will match with recipe 1
 34. Begin creating the third section showcasing our dessert recipe
-35. 
+35. Make all comments to the existing file. Format the html and commit/ save
