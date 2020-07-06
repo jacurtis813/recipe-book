@@ -40,4 +40,8 @@ Cheers and Happy Coding!!!
 21. Apply the div container to recipe 2 to give the contatiner more space to breathe
 22. Make all comments to the html file and the css file to keep all content concise
 23. Correct and check the anchor tags for the recipe 1 and the recipe 2. both are working
-24. 
+24. Set up the table for recipe two for the ingredients and the quantity to be input
+25. Apply the ingedients and quantity list to the table
+26. Give the first div container a class of main-contatiner
+27. Create a second div within a div, with a class called sub-contatiner, future styling
+28. 

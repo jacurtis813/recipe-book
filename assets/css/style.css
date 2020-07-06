@@ -16,7 +16,7 @@ img {
     border: 5px solid rgba(100, 100, 100, 0.5);
 }
 
-div {
+.main-container {
     padding-left: 10px;
 }
 
