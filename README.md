@@ -34,4 +34,10 @@ Cheers and Happy Coding!!!
 15. Make all comments to the html file and the css file, update the README file
 16. Apply the image for recipe 2 and resize the image to fit the area properly
 17. Apply alt attributes to both images that are now on the web page
-
+18. Apply the div container around recipe one to give the content some space to breathe on the left side, adjust the padding
+19. Apply a border to the images and adjust the opacity to give a transparent look to the border
+20. Apply the text-transform uppercase and the font-size properties for the table heading
+21. Apply the div container to recipe 2 to give the contatiner more space to breathe
+22. Make all comments to the html file and the css file to keep all content concise
+23. Correct and check the anchor tags for the recipe 1 and the recipe 2. both are working
+24. 

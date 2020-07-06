@@ -13,5 +13,14 @@ h1 {
 img {
     width: 200px;
     height: 150px;
+    border: 5px solid rgba(100, 100, 100, 0.5);
 }
 
+div {
+    padding-left: 10px;
+}
+
+.table-header {
+    font-size: larger;
+    text-transform: uppercase;
+}
