@@ -1,28 +1,39 @@
-/*Our style sheet for the recipe-book project challenge*/
+/*element selectors*/
+
+/*body styles*/
 body {
     background-color: rgba(48, 150, 62, 0.712);
     border: 2px solid #fff;
     color: rgb(90, 89, 89);
 }
 
+/*h1 styles*/
 h1 {
     color: #fff;
     text-align: center;
     font-size: 50px;
 }
 
+/*image styles*/
 img {
     width: 200px;
     height: 150px;
     border: 5px solid rgba(100, 100, 100, 0.5);
 }
 
+/*paragraph tags with strong nested only styles*/
 p strong {
     text-decoration: underline;
 }
 
+/*id-selectors*/
+
 #table-contents {
     font-size: 35px;
+}
+
+#last-paragraph {
+    text-align: center;
 }
 
 .main-container {
@@ -36,8 +47,4 @@ p strong {
 
 .span-white {
     color: #fff;
-}
-
-#last-paragraph {
-    text-align: center;
 }

@@ -57,4 +57,8 @@ Cheers and Happy Coding!!!
 38. Set the link for the top id selector to drop down in the page
 39. Set the anchor tag to connect the food name with the site from which the recipe derived
 40. Place in a special thank you paragraph for the accessibility of content
-
+41. Apply all the comments needed to keep clear and concise in the html file and css file
+42. Make sure that html file is formatted correctly
+43. Update the README file to reflect all changes
+44. Make sure that everything on the page is working as it should
+45. Save all progress and commit final step
