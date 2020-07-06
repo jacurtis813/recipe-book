@@ -2,6 +2,7 @@
 body {
     background-color: rgba(48, 150, 62, 0.712);
     border: 2px solid #fff;
+    color: rgb(90, 89, 89);
 }
 
 h1 {
@@ -16,6 +17,14 @@ img {
     border: 5px solid rgba(100, 100, 100, 0.5);
 }
 
+p strong {
+    text-decoration: underline;
+}
+
+#table-contents {
+    font-size: 35px;
+}
+
 .main-container {
     padding-left: 10px;
 }
@@ -23,4 +32,8 @@ img {
 .table-header {
     font-size: larger;
     text-transform: uppercase;
+}
+
+.steps-span {
+    color: #fff;
 }

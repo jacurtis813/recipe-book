@@ -39,9 +39,14 @@ Cheers and Happy Coding!!!
 20. Apply the text-transform uppercase and the font-size properties for the table heading
 21. Apply the div container to recipe 2 to give the contatiner more space to breathe
 22. Make all comments to the html file and the css file to keep all content concise
-23. Correct and check the anchor tags for the recipe 1 and the recipe 2. both are working
+23. Correct and check the id selectors for the recipe 1 and the recipe 2. both are working
 24. Set up the table for recipe two for the ingredients and the quantity to be input
 25. Apply the ingedients and quantity list to the table
 26. Give the first div container a class of main-contatiner
 27. Create a second div within a div, with a class called sub-contatiner, future styling
-28. 
+28. Change the color of (all) text in the html file
+29. Create a span tag around all of the paragraph content than create a class for the span tags
+30. Use that class to apply the color to the text assigned according
+31. Use the inherit selector by calling to the strong tag within a p tag only to add text decoration
+32. Create a div container for the table of contents section to assign the main-container class
+33. 
